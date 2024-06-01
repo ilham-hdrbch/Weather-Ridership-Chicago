@@ -14,4 +14,6 @@ Finally, I created a new dataset based on these two sources, which you can find 
 
 ## Interface :
 For the graphical interface, I created a website using Django. This site utilizes weather data from the OpenWeatherMap API (temperature and wind speed) for the city of Chicago, along with the date and month. It performs calculations to determine the type of day and then uses all this data to predict whether public transportation will be crowded or not on that day.
+![Capture d’écran (134)](https://github.com/ilham-hdrbch/Weather-Ridership-Chicago/assets/106122424/17819f24-df6b-4bdd-a7e5-e1b7071f1ed6)
+
 
